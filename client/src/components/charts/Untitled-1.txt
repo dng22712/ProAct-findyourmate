@@ -1,0 +1,5 @@
+curl \
+  'https://fitness.googleapis.com/fitness/v1/users/me/dataSources?key=[YOUR_API_KEY]' \
+  --header 'Authorization: Bearer 50444028835-m8kutvmasdpr9h5samq56g7aaipbgivv.apps.googleusercontent.com' \
+  --header 'Accept: application/json' \
+  --compressed
