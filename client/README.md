@@ -1,2 +1,1 @@
-﻿# ProAct-connect-your-mind
 
