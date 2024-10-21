@@ -1,5 +1,4 @@
-﻿# ProAct-find-your-mate
- 
+
 # ProAct-FindYourMate
 
 **ProAct-FindYourMate** is a full-stack MERN (MongoDB, Express, React, Node.js) web application that helps individuals, especially those facing mental health challenges, find compatible partners or friends. Using data visualization techniques and AI-powered recommendations, the platform delivers the best possible match for users based on several factors, including personality traits, preferences, and mental well-being.
